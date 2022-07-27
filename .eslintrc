@@ -1,0 +1,3 @@
+{
+  "plugins": ["react-app", "react-app/jest"]
+}

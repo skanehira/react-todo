@@ -1,5 +1,5 @@
 {
-  "name": "react-tutorial",
+  "name": "react-todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,8 +24,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "react-app"
     ]
   },
   "browserslist": {
